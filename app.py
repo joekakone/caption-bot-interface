@@ -11,7 +11,7 @@ from PIL import Image
 import gradio as gr
 
 
-URL = 'http://192.168.43.141/api/caption'
+URL = 'http://192.168.43.141:5000/api/caption'
 FILE_PATH = 'temp.png'
 
 
